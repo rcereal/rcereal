@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Glad to see you here!  
+I’m a backend-focused full-stack developer with hands-on experience in turning real-world needs into functional and scalable web systems. My journey começou desenvolvendo projetos sociais e sistemas internos para empresas, o que me ensinou a importância de soluções simples, seguras e eficientes.
+
+My main stack revolves around Python (Django) and MySQL, but I also have experiência com Node.js, web scraping, data processing and modern frontend tools. I enjoy designing systems that are clean on the outside and solid under the hood — whether it's an access control system, a user management dashboard, or a social program database.
+
+More than just writing code, I like understanding the problem deeply, propondo soluções práticas e evoluindo junto com o projeto. My goal is always to create something útil, confiável e com um toque de criatividade.
+
+
+<br/>  
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
