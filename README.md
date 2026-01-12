@@ -1,63 +1,67 @@
-## Hey 👋, I'm Ryan Vitor!  
-  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3PfvY8nOH0/giphy.gif" width="600" height="300" />
 
-<a href="https://github.com/rcereal" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a> 
-<a href="https://www.linkedin.com/in/ryan-vitor-09524a246/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <h1 align="center">Olá, sou Ryan Vitor! 👋</h1>
 
+  <p align="center">
+    <strong>Full Stack Developer</strong> focado em transformar problemas complexos em software escalável.
+  </p>
 
+  <p align="center">
+    <a href="https://portfolio-ryan-vitor-coral.vercel.app/">
+      <img src="https://img.shields.io/badge/🚀_Acesse_meu_Novo_Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
 
+  <div align="center">
+    <a href="https://linkedin.com/in/ryan-vitor-09524a246" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="mailto:ryanvitor.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://wa.me/5571983971269">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+    </a>
+  </div>
+</div>
 
-### Glad to see you here!  
-I’m a backend-focused full-stack developer with hands-on experience in turning real-world needs into functional and scalable web systems. My journey começou desenvolvendo projetos sociais e sistemas internos para empresas, o que me ensinou a importância de soluções simples, seguras e eficientes.
+<br/>
 
-My main stack revolves around Python (Django) and MySQL, but I also have experiência com Node.js, web scraping, data processing and modern frontend tools. I enjoy designing systems that are clean on the outside and solid under the hood — whether it's an access control system, a user management dashboard, or a social program database.
+### 👨‍💻 Sobre Mim
 
-More than just writing code, I like understanding the problem deeply, propondo soluções práticas e evoluindo junto com o projeto. My goal is always to create something útil, confiável e com um toque de criatividade.
+Sou um desenvolvedor apaixonado por tecnologia sediado em **Salvador, BA**. Minha jornada começou com Python e automação, e evoluiu para a criação de sistemas web completos.
 
+Atualmente, estou focado em:
+* ⚛️ **Frontend:** Criar interfaces modernas com **React, Next.js 14 e Tailwind CSS**.
+* 🐍 **Backend:** Construir APIs robustas com **Django (Python) e Node.js**.
+* 📊 **Dados:** Modelagem de bancos **SQL** e análise de dados.
 
-<br/>  
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-</div>  
+### 🛠️ Arsenal Tecnológico
 
-<br/>  
+<div align="center">
 
-<br/>  
+| Frontend | Backend | Banco de Dados | Ferramentas |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" /> | <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> |
 
+</div>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=rcereal&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+### ⚡ GitHub Stats
 
-</td><td valign="top" width="50%">
+<div align="center">
+  <a href="https://github.com/rcereal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rcereal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcereal&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcereal&hide_border=true&layout=compact" align="left" style="width: 100%" />
+---
 
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rcereal&&style=flat-square)  
-  
-
-<br/>  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rcereal&label=Profile%20Views&color=indigo&style=flat" alt="rcereal" />
+</div>
